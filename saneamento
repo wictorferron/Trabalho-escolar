@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Saudade Professor!</title>
+    </head>
+    <style>
+        #titulo{color:green;
+        }
+        .sub_titulo{color:red;
+        }
+        body{background:rgb(130, 192, 255);
+        }
+        .lista{color:blue;
+        }
+    </style>
+    <body>
+    
+        <h1>Água Potável e Saneamento Básico.</h1>
+        <img src="https://brasilnaagenda2030.files.wordpress.com/2018/11/capaods6.png?w=665"alt="Saneamento Basico">
+        <h2 id="titulo">
+            O que é Saneamento Básico?
+        </h2>
+        <p>O saneamento básico é um conjunto de serviços de infraestrutura que engloba o abastecimento de água, o esgotamento sanitário, a limpeza urbana e o manejo de resíduos sólidos e a drenagem de águas pluviais.
+ As atividades que englobam esse serviço são essenciais para a prevenção de doenças, redução da mortalidade infantil, melhorias nos índices de educação e empregabilidade, preservação ambiental, expansão do turismo etc.
+        <h2 id="titulo">Por que precisamos de Saneamento Básico?</h3>
+        <img src="">
+        <br>Entre os benefícios do saneamento básico estão o desenvolvimento do país e o aumento da qualidade de vida das pessoas. Seu aperfeiçoamento e universalização promovem melhorias na saúde, principalmente de crianças, com a diminuição da mortalidade infantil e a contenção de doenças, especialmente as de veiculação hídrica.<br>
+	<br>Já o custo para levar saneamento básico para todos os brasileiros até <strong>2033</strong> é estimado em <strong>R$ 508 bilhões</strong>, sendo os serviços de água e esgoto responsáveis por 60% desse custo. Os estados que mais investiram em saneamento nos últimos anos foram São Paulo, Minas Gerais, Paraná, Rio de Janeiro e Bahia.<br>
+	<br>No entanto, para atingir essa meta, o Brasil precisa aumentar em 62% os investimentos em saneamento básico. A média de recursos direcionados ao setor nos últimos oito anos foi de <strong>R$ 13,6 bilhões, 8 bilhões</strong> a menos do que o necessário. Se essa média for mantida, a universalização só será atingida após <strong>2050</strong>, ou seja, com um atraso de mais de 20 anos.<br>
+    <h3 class="sub_titulo">Objetivos do Saneamento Básico</h3>
+    <ul class="sub_titulo"> 
+     <img src="https://arsepbarcarena.com.br/wp-content/uploads/2020/10/ciclo-do-sanemaento-768x373-1.jpg"alt="">
+    <li>Assegurar a disponibilidade e gestão sustentável da água e saneamento para todas e todos;
+    <li>Até 2030, alcançar o acesso universal e equitativo a água potável e segura para todos;
+    <li>Até 2030, alcançar o acesso a saneamento e higiene adequados e equitativos para todos, e acabar com a defecação a céu aberto, com especial atenção para as necessidades das mulheres e meninas e daqueles em situação de vulnerabilidade;
+    <li>Até 2030, melhorar a qualidade da água, reduzindo a poluição, eliminando despejo e minimizando a liberação de produtos químicos e materiais perigosos, reduzindo à metade a proporção de águas residuais não tratadas e aumentando substancialmente a reciclagem e reutilização segura globalmente;
+    <li>Até 2030, aumentar substancialmente a eficiência do uso da água em todos os setores e assegurar retiradas sustentáveis e o abastecimento de água doce para enfrentar a escassez de água, e reduzir substancialmente o número de pessoas que sofrem com a escassez de água;
+    <li>Até 2030, implementar a gestão integrada dos recursos hídricos em todos os níveis, inclusive via cooperação transfronteiriça, conforme apropriado;
+    <li>Até 2020, proteger e restaurar ecossistemas relacionados com a água, incluindo montanhas, florestas, zonas úmidas, rios, aquíferos e lagos;
+    <li>Até 2030, ampliar a cooperação internacional e o apoio à capacitação para os países em desenvolvimento em atividades e programas relacionados à água e saneamento, incluindo a coleta de água, a dessalinização, a eficiência no uso da água, o tratamento de efluentes, a reciclagem e as tecnologias de recuso;
+    <li>Apoiar e fortalecer a participação das comunidades locais, para melhorar a gestão da água e do saneamento;
+    </ul>
+  <em>Clique:<a target="_blank" href="https://youtu.be/weX6B6aI5ec">Para mais informações!</a></em>  
+    </body>
+</html>
